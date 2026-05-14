@@ -1,0 +1,8 @@
+.DS_Store
+index.html
+dashboard_sentimen_MBG_v2.html
+dashboard_sentimen_MBG_v2.json
+output/*.png
+output/*.json
+*.html
+*.json
