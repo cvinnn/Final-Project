@@ -1,4 +1,7 @@
 .DS_Store
+.env
+.env.*
+!.env.example
 index.html
 dashboard_sentimen_MBG_v2.html
 dashboard_sentimen_MBG_v2.json
